@@ -5,16 +5,16 @@ export const projects = [
       "A demo e-commerce platform built to showcase an Amazon-like shopping experience.",
     image: "project3", // Replace with actual image
     technologies: ["HTML", "CSS", "JavaScript"],
-    demoLink: "#", // Replace with actual demo link
-    codeLink: "#", // Replace with actual GitHub repo link
+    demoLink: "https://amazon-alpha-pearl.vercel.app/", // Replace with actual demo link
+    codeLink: "https://github.com/KAYZI2HIGH/Amazon", // Replace with actual GitHub repo link
   },
   {
     title: "YouTube Demo Website",
     description: "A replica of YouTube's UI with basic video functionality.",
     image: "project2",
     technologies: ["HTML", "CSS", "JavaScript"],
-    demoLink: "#",
-    codeLink: "#",
+    demoLink: "https://youtube-gray-ten.vercel.app/",
+    codeLink: "https://github.com/KAYZI2HIGH/Youtube-Demo",
   },
   {
     title: "Church Website",
@@ -22,8 +22,8 @@ export const projects = [
       "A website for my local church to showcase events, sermons, and contact details.",
     image: "project1",
     technologies: ["React", "Tailwind", "Next.js"],
-    demoLink: "#",
-    codeLink: "#",
+    demoLink: "https://champions-pi.vercel.app/",
+    codeLink: "https://github.com/KAYZI2HIGH/Champions",
   },
   {
     title: "YC Directory",
@@ -31,21 +31,20 @@ export const projects = [
       "A platform where users can create and read startup details, featuring real-time updates.",
     image: "project6",
     technologies: ["Next.js", "Sanity", "Cloudinary", "NextAuth"],
-    demoLink: "#",
-    codeLink: "#",
+    demoLink: "https://ycdirectory-seven.vercel.app/",
+    codeLink: "https://github.com/KAYZI2HIGH/ycdirectory",
   },
   {
     title: "Baynedad Property Website",
     description:
       "A full-stack real estate platform for property listings and facility management.",
-    image: "project5",
+    image: "Project5",
     technologies: ["Next.js", "Cloudinary", "NextAuth"],
-    demoLink: "#",
-    codeLink: "#",
+    demoLink: "https://baynedad.vercel.app/",
+    codeLink: "https://github.com/KAYZI2HIGH/baynedad",
   },
 ];
 
-// constants.js
 export const blogs = [
   {
     title: "Getting Started with React Hooks",
