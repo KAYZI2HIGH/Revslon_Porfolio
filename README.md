@@ -19,6 +19,7 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/your-username/your-portfolio-repo.git
 2. Navigate to the project directory:
+   ```bash
    cd your-portfolio-repo
 4. Open the project:
    Open the index.html file in your browser to view the website.
