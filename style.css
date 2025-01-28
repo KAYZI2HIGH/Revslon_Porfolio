@@ -270,6 +270,9 @@ a {
 }
 
 .project-card {
+   display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   background-color: #fff;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -285,11 +288,15 @@ a {
 
 .project-card img {
   width: 100%;
-  height: 200px;
+  min-height: 200px;
 }
 
 .project-card .card-content {
   padding: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-between;
 }
 
 .project-card .card-content h3 {
